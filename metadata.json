@@ -1,0 +1,7 @@
+{
+  "name": "Smart Quiz – Interactive Quiz Application",
+  "description": "A modern Android and Web Material Design 3 quiz application featuring category quizzes, countdown timers, custom question builder, profile analytics, and full Flutter project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
